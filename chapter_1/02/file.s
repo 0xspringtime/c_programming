@@ -2,7 +2,7 @@
 	.text
 	.section	.rodata
 .LC0:
-	.string	"hello: "
+	.string	"helloi worlds "
 	.text
 	.globl	main
 	.type	main, @function

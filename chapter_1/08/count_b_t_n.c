@@ -23,7 +23,7 @@ int main(void)
     }
   }
 
-  printf("blanks_nr: %d\ntabs_nr: %d\nnewlines_nr: %d\n",
+  printf("\nblanks_nr: %d\ntabs_nr: %d\nnewlines_nr: %d\n",
          blanks_nr, tabs_nr, newlines_nr);
 
   return 0;

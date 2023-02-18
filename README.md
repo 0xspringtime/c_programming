@@ -1,1 +1,1 @@
-
+Code accompanying my rereading of The C Programming Language with examples from the book and previous solutions to the example problems, with an interest taken in understanding assembly language, the functioning of gcc, and writing bash scripts to alter the functionality of programs.

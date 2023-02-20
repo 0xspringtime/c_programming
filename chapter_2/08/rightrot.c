@@ -51,5 +51,5 @@ unsigned int rightrot(unsigned int x, unsigned int n)
 
 // NOTE: The rightrot function rotate the entire unsigned int var and if we print
 // just a byte we can't see all bits. In order to print all the bits from an
-// unsigned int we need to determine the size of an unsigned int, wich is
+// unsigned int we need to determine the size of an unsigned int, which is
 // machine dependent, and then print 0 or 1 to the output using powers of 2.

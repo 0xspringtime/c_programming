@@ -9,7 +9,7 @@ int main(void)
   unsigned int x = 0b011010;
 
   printbits(x);
-  printf("x have %d bits of 1.\n", bitcount(x));
+  printf("x has %d bits of 1.\n", bitcount(x));
 
   return 0;
 }
